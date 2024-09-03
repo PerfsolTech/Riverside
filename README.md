@@ -4,7 +4,7 @@
 
 **Built with Cutting-Edge Tech:**
 
-**AI:** 🧠 Open AI for virtual cooperation and enhanced functionality
+**AI:** 🧠 Open AI for content generation and enhanced functionality
 **Frontend** ⚡️ Blazing-Fast Performance with Next.js (TypeScript & Styled Components) 
 **Backend:** 🪨 Scalable & Secure with Nest.js,
 **Deployment:** ☁️ Seamless Delivery with Kubernetes 
