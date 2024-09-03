@@ -1,6 +1,6 @@
 **🎧Riverside - AI-powered Remote Podcast and Video Recording Platform**
 
-[Riverside.fm](https://riverside.fm/) makes recording remote podcasts and video interviews feel like you're in a million-dollar studio. Ready to sound like a pro? 🚀
+[Riverside.fm](https://riverside.fm/) SaaS web app makes recording remote podcasts and video interviews feel like you're in a million-dollar studio. Ready to sound like a pro? 🚀
 
 **Built with Cutting-Edge Tech:**
 
